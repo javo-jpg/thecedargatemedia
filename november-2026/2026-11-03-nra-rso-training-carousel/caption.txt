@@ -1,11 +1,12 @@
 POST: 03-11 NRA RSO Training Carousel (members only)
 WHEN: Tue Nov 3, 11:30 AM (Central)
 WHERE: Instagram, Facebook
-SLIDES: 01_cover.png, 02_reserve.png
+SLIDES: 01_cover.png, 02_reserve.png, 03_membership.png
 
 ON-SCREEN TEXT:
 Slide 1: Members only. / Become a Range Safety Officer. / NRA RSO CERTIFICATION · ONE DAY · ON OUR RANGE / SATURDAY, DECEMBER 5 · DM US "RSO"
 Slide 2: Earn your certification / alongside fellow members. / LIMITED SPOTS · MEMBERS ONLY / DM US "RSO" · OR CONTACT ABI HILL OR STACEY HOLDEN
+Slide 3: Not a member yet? / This is what membership looks like. / MEMBER TRAININGS · EVENTS · THE RANGE · THE LODGE / DM US "MEMBER" TO LEARN MORE
 
 INSTAGRAM / FACEBOOK CAPTION
 
@@ -15,16 +16,19 @@ On Saturday, December 5, members can earn their NRA RSO certification right here
 
 Spots are limited. DM us "RSO" or contact Abi Hill or Stacey Holden to reserve yours.
 
+Not a member yet? Trainings like this are part of membership at The Cedar Gate. DM us "MEMBER" and we'll tell you more.
+
 #TheCedarGate #RangeSafetyOfficer #NRACertified #CedarGateMembers #KingfisherOK
 
 STORIES (in the Stories folder), counting down to the date:
 - Tue Nov 3: "Members only. NRA RSO training." DM "RSO" to save your spot.
-- Sat Nov 21: "Two weeks out. Spots are filling."
+- Sat Nov 21 (for non-members): "Not a member yet? Members train here first." DM "MEMBER" to learn more.
 - Tue Dec 1: "This Saturday. Last spots for members."
 - Fri Dec 4: "Tomorrow. We'll save you a seat."
-Non-members who DM "RSO" are a good chance to talk about membership.
+Slide 3 and the Nov 21 Story invite non-members to DM "MEMBER". Anyone who DMs "RSO" but is not a member gets the membership info too.
 
 STILL NEEDED (from Stacey, by Fri Oct 30):
 - Start time and how long the training runs
 - Cost for members (or if it's included in membership) and how many spots
 - Who answers "RSO" messages and keeps the list of who signed up
+- Membership details to share with people who DM "MEMBER" (what is included and how to join)
